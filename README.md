@@ -16,6 +16,7 @@ Welcome to my GitHub profile! I'm a passionate learner and a creative problem so
   <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-React_Native-%2361DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-Express.js-%23404d59?style=flat-square&logo=express&logoColor=white" />
