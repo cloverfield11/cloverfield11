@@ -23,10 +23,6 @@ Welcome to my GitHub profile! I'm a passionate learner and a creative problem so
   <img src="https://img.shields.io/badge/-MySQL-%2300f?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-## Stats 📈
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloverfield11&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Let's Connect! 🤝
 
 <p>
