@@ -20,10 +20,7 @@ Welcome to my GitHub profile! I'm a passionate learner and a creative problem so
   <img src="https://img.shields.io/badge/-React_Native-%2361DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/-Express.js-%23404d59?style=flat-square&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/-jQuery-%230769AD?style=flat-square&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-%230db7ed?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-%2300f?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C%23-%23239120?style=flat-square&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 </p>
 
 ## Stats 📈
