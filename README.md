@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate learner and a creative problem so
 
 ## About Me 👩‍💻
 
-- 🔭 I’m currently working on improving my skills in node.js, sql, JavaScript;
+- 🔭 I’m currently working on improving my skills in node.js, sql, JavaScript, Python;
 - 🌱 I’m currently learning React Native;
 - 💬 Ask me about anything;
 - 📫 How to reach me: [gmail](mailto:[gaponenko800@gmail.com]) | [telegram](https://t.me/cloverfield11);
