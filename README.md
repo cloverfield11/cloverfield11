@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate learner and a creative problem solver. Here, you'll find a collection of my projects, experiments, and collaborations.
 
-## About Me 👩‍💻
+## About Me 👨‍💻
 
 - 🔭 I’m currently working on improving my skills in node.js, sql, JavaScript, Python;
 - 🌱 I’m currently learning React Native;
