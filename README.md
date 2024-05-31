@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate learner and a creative problem so
 - 🔭 I’m currently working on improving my skills in node.js, sql, JavaScript, Python;
 - 🌱 I’m currently learning React Native;
 - 💬 Ask me about anything;
-- 📫 How to reach me: [gmail](mailto:[gaponenko800@gmail.com]) | [telegram](https://t.me/cloverfield11);
+- 📫 How to reach me: [mail](mailto:[me@cloverfield11.ru]) | [telegram](https://t.me/cloverfield11);
 - ⚡ Fun fact: I love tom yum;
 
 ## Languages and Tools 🛠️
